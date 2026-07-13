@@ -6,7 +6,6 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 
 - Problems Solved : 94
 
-
 ## Topics Covered
 
 - Basics
