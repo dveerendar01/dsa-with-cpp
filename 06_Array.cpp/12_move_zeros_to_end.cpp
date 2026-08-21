@@ -35,3 +35,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// Time Complexity: O(n) + O(x) + O(n-x) = O(2n).
+// Space Complexity: O(n) for the temporary array used to store non-zero elements.
