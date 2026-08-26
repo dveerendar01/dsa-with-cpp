@@ -15,8 +15,8 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 - Functions
 - Recursion
 - Pattern Problems
-- Hashing
-- Sorting |5|
+- Hashing |3|
+- Sorting
 
 ## Technologies Used
 - C++
