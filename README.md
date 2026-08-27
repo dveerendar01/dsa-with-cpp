@@ -11,7 +11,7 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 - Basics
 - Strings
 - Loops
-- Arrays
+- Arrays |17|
 - Functions
 - Recursion
 - Pattern Problems
