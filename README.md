@@ -8,15 +8,16 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 
 ## Topics Covered
 
-- Basics
-- Strings
-- Loops
-- Arrays
-- Functions
-- Recursion
-- Pattern Problems
-- Hashing
-- Sorting
+- Basics |26|
+- Strings |5|
+- Loops |7|
+- Arrays |20|
+- Functions |9|
+- Recursion |5|
+- Functions & Recursions |5| 
+- Pattern Problems |28|
+- Hashing |3|
+- Sorting |5|
 
 ## Technologies Used
 - C++
