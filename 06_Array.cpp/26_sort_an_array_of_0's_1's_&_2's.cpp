@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// Dutch National Flag algorithm
+
 void sort012(vector<int> &arr, int n) {
     int low = 0;
     int mid = 0;
