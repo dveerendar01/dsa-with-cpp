@@ -46,7 +46,12 @@ int main() {
     cout << "Next Greater Permutation: ";
     for(int i = 0; i < n; i++) {
         cout << result[i] << " ";
-    }
+    } // OR
+
+    // for(int num : result) {
+    //     cout << num << " ";
+    // }
+
     cout << endl;
     return 0;
 }
