@@ -31,7 +31,7 @@ int main() {
         return 0;
     }
 
-    vector<int>(nums);
+    vector<int> nums(n);
     cout << "Enter array elements: ";
     for(int i=0; i<n; i++) {
         cin >> nums[i];
