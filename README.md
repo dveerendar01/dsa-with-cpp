@@ -4,14 +4,14 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 
 ## Progress
 
-- Problems Solved : 128
+- Problems Solved : 129
 
 ## Topics Covered
 
 - Basics |26|
 - Strings |5|
 - Loops |7|
-- Arrays |34|
+- Arrays |35|
 - Functions |9|
 - Recursion |5|
 - Functions & Recursions |5| 
