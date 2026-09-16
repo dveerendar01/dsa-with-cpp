@@ -68,3 +68,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC : O(n*m) ,bcuz we r using a matrix.
+// SC : O(n*m) ,bcuz we r storing an extra space of ans as matrix.
