@@ -18,6 +18,21 @@ int subarraySum(vector<int>& nums,int k) {
     return count;
 }
 
+// int findAllSubarraysWithGivenSum(vector<int>& arr, int k) {
+//     unordered_map<int, int> mpp;
+//     mpp[0] = 1;
+//     int prefixSum = 0, cnt = 0;
+//     TC : O(N) + O(log N), bcuz we are using unordered map
+//     SC : O(N)
+//     for(int i=0; i<arr.size(); i++) {
+//         prefixSum += arr[i];
+//         int remove = prefixSum - k;
+//         cnt += mpp[remove];
+//         mpp[prefixSum] += 1;
+//     }
+//     return cnt;
+// }
+
 int main() {
     int n,k;
     cout << "Enter array size: ";
