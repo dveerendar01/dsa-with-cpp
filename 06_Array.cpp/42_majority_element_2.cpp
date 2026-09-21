@@ -34,3 +34,6 @@ vector<int> majorityElement(vector<int>& v) {
     sort(ls.begin(), ls.end());
     return ls;
 }
+
+// TC: O(N) + O(N) = O(2N)
+// SC: O(1)
