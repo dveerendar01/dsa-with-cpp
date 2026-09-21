@@ -37,3 +37,6 @@ int main() {
     cout << "The final result is: " << result << endl;
     return 0;
 }
+
+// TC : O(N)
+// SC : O(1)
