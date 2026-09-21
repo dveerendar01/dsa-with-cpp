@@ -13,6 +13,7 @@ vector<int> majorityElements(vector<int>& nums) {
         }
         if(ls.size() == 2) break;
     }
+    // O(2 log 2)
     sort(ls.begin(), ls.end());
     return ls;
 }
