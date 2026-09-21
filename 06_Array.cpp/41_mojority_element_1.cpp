@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-vector<int> majorityElement(vector<int>& nums) {
+vector<int> majorityElements(vector<int>& nums) {
     int n = nums.size();
     vector<int> ls; // list
     map<int, int> mpp;
@@ -33,7 +33,7 @@ int main() {
         cin >> nums[i];
     }
 
-    vector<int> result = majorityElement(nums);
+    vector<int> result = majorityElements(nums);
     cout << "The final list is: ";
     for(int x : result) {
         cout << x << " ";
