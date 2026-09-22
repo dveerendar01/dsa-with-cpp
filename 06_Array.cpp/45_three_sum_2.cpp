@@ -48,3 +48,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC: O(N^2) * log(M)
+// SC: O(N) + O(no. of unique triplates) * 2
