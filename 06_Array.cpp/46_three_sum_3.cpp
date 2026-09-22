@@ -55,3 +55,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC: O(n log n) + O(N * n)
+// SC: O(no. of unique triplets)
