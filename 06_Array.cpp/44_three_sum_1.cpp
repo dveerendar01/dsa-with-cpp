@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-vector<vector<int>> triplates(vector<int>& arr) {
+vector<vector<int>> triplets(vector<int>& arr) {
     int n = arr.size();
     set<vector<int>> st;
     for(int i=0; i<n; i++) {
@@ -35,7 +35,7 @@ int main() {
         cin >> arr[i];
     }
 
-    vector<vector<int>> ans = triplates(arr);
+    vector<vector<int>> ans = triplets(arr);
     cout << "The Triplates are: ";
     for(int i=0; i<ans.size(); i++) {
         cout << "[ ";
