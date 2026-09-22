@@ -47,3 +47,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC: O(n3) * log(no. of uniques)
+// SC: 2*O(no. of triplates)
