@@ -63,3 +63,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC: O(N^3)
+// SC: O(1)
