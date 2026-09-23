@@ -56,3 +56,6 @@ int main() {
     cout << "\n";
     return 0;
 }
+
+// TC: O(N^3 log N)
+// SC: O(N)
