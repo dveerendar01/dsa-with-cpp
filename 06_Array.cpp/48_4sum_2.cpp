@@ -52,7 +52,7 @@ int main() {
     cin >> target;
 
     vector<vector<int>> ans = fourSum(target, nums);
-    cout << "The Four Sum are: ";
+    cout << "The quadruplets are: ";
     for(int i=0; i<ans.size(); i++) {
         cout << "[ ";
         for(int j=0; j<ans[i].size(); j++) {
