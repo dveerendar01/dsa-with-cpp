@@ -35,3 +35,6 @@ int main() {
     cout << "The result is: " << result << endl;
     return 0;
 }
+
+// TC: O(N) or O(N log N)
+// SC: O(N)
