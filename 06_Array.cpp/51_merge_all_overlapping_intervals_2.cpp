@@ -46,3 +46,6 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+// TC : O(N log N)
+// SC : O(N)
