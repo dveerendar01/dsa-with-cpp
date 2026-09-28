@@ -77,3 +77,6 @@ int main() {
 
     return 0;
 }
+
+// TC : O(n+m) + O(n+m) = O2(n+m)
+// SC : O(n+m)
