@@ -10,7 +10,7 @@ void swapIfGreater(long long arr1[],long long arr2[],int ind1,int ind2){
 void merge(long long arr1[],long long arr2[],int n,int m){
     int len=n+m;
     int gap=(len/2)+(len%2);
-    
+
     while(gap>0){
         int left=0;
         int right=left+gap;
@@ -74,3 +74,6 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+// TC: O(log(n+m)) * O(n+m)
+// SC: O(1)
