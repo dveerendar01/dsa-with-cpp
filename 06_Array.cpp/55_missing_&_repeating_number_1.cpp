@@ -51,3 +51,6 @@ int main() {
     cout << endl;
     return 0;
 }
+
+// TC: O(n) + O(n) = O(2n)
+// SC: O(n) we r using an extra space for hash array
