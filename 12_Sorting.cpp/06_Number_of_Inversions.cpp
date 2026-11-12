@@ -70,3 +70,7 @@ int main() {
     cout << "\nNumber of Inversions: " << inversions << endl;
     return 0;
 }
+
+//Time Complexity: O(n log n) - Merge Sort divides the array into log n levels and processes n elements per level.
+//Auxiliary Space: O(n) - temporary array used during merging
+//Recursion Stack: O(log n) - recursive calls.
