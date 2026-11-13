@@ -97,3 +97,6 @@ int main() {
     cout << "Number of Reverse Pairs: " << ans << endl;
     return 0;
 }
+
+//TC: O(2n log n)
+//SC: O(n)
