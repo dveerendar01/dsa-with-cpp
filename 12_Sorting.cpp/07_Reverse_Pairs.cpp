@@ -1,5 +1,4 @@
-
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
 class Solution {
@@ -58,9 +57,8 @@ class Solution {
         long long cnt = 0;
 
         cnt += mergeSort(nums, low, mid);
-        cnt += mergeSort(nums, mid + 1, high);        // Count reverse pairs before merging.
+        cnt += mergeSort(nums, mid + 1, high);
         cnt += countPairs(nums, low, mid, high);
-       // Merge both sorted halves.
         merge(nums, low, mid, high);
         return cnt;
     }
@@ -70,7 +68,6 @@ public:
         if (nums.empty()) {
             return 0;
         }
-       // LeetCode 493 constraints guarantee the answer fits int.
         return (int)mergeSort(nums, 0, (int)nums.size() - 1);
     }
 };
