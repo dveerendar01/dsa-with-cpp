@@ -35,3 +35,6 @@ int main() {
     cout <<"The maximum product of the subarray is: " << ans << endl;
     return 0;
 }
+
+//TC: O(n)
+//SC: O(1)
