@@ -4,7 +4,7 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 
 ## Progress
 
-- Problems Solved : 154
+- Problems Solved : 156
 
 ## Topics Covered
 
@@ -18,6 +18,7 @@ Data Structures and Algorithms practice in C++ while learning from Striver's DSA
 - Pattern Problems |28|
 - Hashing |4|
 - Sorting |7|
+- Binary Search|2|
 
 ## Technologies Used
 - C++
