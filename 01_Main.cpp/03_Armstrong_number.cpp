@@ -24,8 +24,8 @@ int main() {
     if n=35, --> 3^3+5^3 = 134, it is not an Armstrong number. */
 /* palindrome number means the reverse is exactly same as the original,
     ex: 343 , in reverse it is 343 only
-    ex: 121, in reverse it is 121 as it is, this type of numbers is called palindromes. */
+    ex: 121, in reverse it is 121 as it is, this type of numbers is called palindromes */
 
 /* Perfect number means the sum of all the factors of a number is equal to the number itself.
-    ex: 6 --> factors are 1,2,3,6 --> 1+2+3=6, so it is a perfect number.
-    ex: 28 --> factors are 1,2,4,7,14,28 --> 1+2+4+7+14=28, so it is a perfect number. */
+    ex: 6 --> factors are 1,2,3,6 --> 1+2+3=6, so it is a perfect number
+    ex: 28 --> factors are 1,2,4,7,14,28 --> 1+2+4+7+14=28, so it is a perfect number */
