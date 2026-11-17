@@ -29,4 +29,3 @@ int main() {
 /* Perfect number means the sum of all the factors of a number is equal to the number itself.
     ex: 6 --> factors are 1,2,3,6 --> 1+2+3=6, so it is a perfect number.
     ex: 28 --> factors are 1,2,4,7,14,28 --> 1+2+4+7+14=28, so it is a perfect number. */
-
